@@ -1,4 +1,4 @@
-# webserverec2
+# EC2webserver
 
 #one of the ways for deploying or configuring webserver is using Terraform configuration to provision on AWS
 
