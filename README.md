@@ -1,5 +1,7 @@
 # webserverec2
 
+#one of the ways for deploying or configuring webserver is using Terraform configuration to provision on AWS
+
 #Terraform template
 
 #creating ec2  instance for httpd webserver 
